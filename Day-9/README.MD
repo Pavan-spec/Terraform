@@ -10,3 +10,6 @@ run : minikube start --memory=4096 --driver=hyperkit - when you use advance leve
 
 Kubernetes cheat sheet - To see all k8s commands 
 https://kubernetes.io/docs/reference/kubectl/quick-reference/
+
+Ref: for setting up minikube on ec2 using terraform 
+https://github.com/ranjit4github/terraform-ec2-minikube/blob/master/ec2.tf
